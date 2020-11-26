@@ -23,12 +23,15 @@ After you sign in the first page you will wind up on is the summary page.
 ![Summary Page](images/LandingPage.png)
 
 From here there is a Navigtion bar at the top.
-- "Orders": Click on "Orders" to view your previously submitted orders.
-- "Report Issue": Click on "Report Issue" to file a report if you have any issues with this application
+- "Home": Takes you back to the Summary Page
+- "Orders": Brings up the order list view to see your previously submitted orders.
+- "Report Issue": For filing a report if you have any issues with this application
 - Your UserId: Click on your user id in the right hand corner to get a dropdown where you can signout if you are sharing a device and need to sign in as another user
 - "Active Order":  If you have started a new order or are editing a previous order then there will be an "Active Order" option which will take you to the order edit page.
 
 The summary information on this page will show you where you and your patrol stands in comparison with the rest of the troop.
+
+The **[+]** in the lower right hand corner of the browser is how you add new orders.  If you have any "Active" order then clicking on this will discard changes to that order and start a new order.
 
 # Orders List Page
 Displays a list of the orders that you have entered
@@ -40,10 +43,18 @@ From this page you can edit or delete already entered order.  These Delete optio
 If you do need to delete an order then a confirmation box will come up in which you have to enter "delete" to cause the order to be deleted
 ![Order Delete Confirmation](images/ConfirmOrderDeletion.png)
 
+The **[+]** in the lower right hand corner of the browser is how you add new orders.  If you have any "Active" order then clicking on this will discard changes to that order and start a new order.
+
 # Order Edit Page
 From this page you an add product orders or donations.
 
 ![Order Entry with 1 Product Delivery Day Order](images/OrderEntry1Order.png)
+
+This is an example of an new/or edit of existing order that has 1 order for a specific delivery date. 
+The "Add Product" [+] button can be used to add an order for a different delivery date.
+The "Add Donation" [+] button can be used to add a donation to the order
+
+For the existing order you can click on the pencil button to edit that product order or the [X] button to delete the order.
 
 
 
