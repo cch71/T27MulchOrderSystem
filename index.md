@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# User Manual for T27 Fundraising App V2.0
 
-You can use the [editor on GitHub](https://github.com/cch71/T27FundraisingWebApp/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the V2 Fundraising Experience.
+Improvements
+- Usable on mobile devices
+- Progressive Web App which means that it is able to be installed and launched like a regular app for both phone and dekstop
+- Initial releases targets latest Firefox/Chrome browsers.  (Internet Explorer and Safari Desktop are not yet supported)
+- Support for more than just Mulch fundraising efforts
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# How to get there
+_TBD: Add Link_
 
-### Markdown
+# Authentication
+As in prevous years you will need to get your Username and Password from the Fundraising Cooredinator
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Sign On Page](images/SignOn.png)
 
-```markdown
-Syntax highlighted code block
+Enter your given username and password and click the Submit button.
 
-# Header 1
-## Header 2
-### Header 3
+# Start page
+After you sign in the first page you will wind up on is the summary page.
 
-- Bulleted
-- List
+![Summary Page](images/LandingPage.png)
 
-1. Numbered
-2. List
+From here there is a Navigtion bar at the top.
+- "Orders": Click on "Orders" to view your previously submitted orders.
+- "Report Issue": Click on "Report Issue" to file a report if you have any issues with this application
+- Your UserId: Click on your user id in the right hand corner to get a dropdown where you can signout if you are sharing a device and need to sign in as another user
+- "Active Order":  If you have started a new order or are editing a previous order then there will be an "Active Order" option which will take you to the order edit page.
+
+The summary information on this page will show you where you and your patrol stands in comparison with the rest of the troop.
+
+# Orders List Page
+Displays a list of the orders that you have entered
+
+![Order List](images/OrderListPage.png)
+
+From this page you can edit or delete already entered order.  These Delete option will not be avaiable if the there are orders that have passed the cutoff date. However the edit button will be availble if there is a need to change the delivery address.  Or in the case of the mulch fundraiser which multiple delivery dates then orders for a specific delivery day can be edited removed until after the cutoff time for that delivery date.
+
+If you do need to delete an order then a confirmation box will come up in which you have to enter "delete" to cause the order to be deleted
+![Order Delete Confirmation](images/ConfirmOrderDeletion.png)
+
+# Order Edit Page
+From this page you an add product orders or donations.
+
+![Order Entry with 1 Product Delivery Day Order](images/OrderEntry1Order.png)
+
+
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cch71/T27FundraisingWebApp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
