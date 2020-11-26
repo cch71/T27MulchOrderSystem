@@ -56,6 +56,17 @@ The "Add Donation" [+] button can be used to add a donation to the order
 
 For the existing order you can click on the pencil button to edit that product order or the [X] button to delete the order.
 
+![Example Order with 2 Product Delivery Day Orders and a Donation](images/OrderEntryAllFull.png)
+
+# Add Product Page
+This page is where you would add product specific entries for the order.  The contents of this page will change depending on the active fundraising type (Wreath/Mulch/Other)
+
+![Mulch Product Order Entry](images/ProductPage.png)
+
+Even though the page contents depends on the active fundraising type, the delivery date pull down will be availble for any open delivery dates.  In other words for mulch if you have an order for 1 delivery day then you will only get the option for the remaining delivery day(s).  If this is the wreath fundraiser then there will only be one delivery date available.
+
+
+
 
 
 **Bold** and _Italic_ and `Code` text
