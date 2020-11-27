@@ -58,17 +58,21 @@ For the existing order you can click on the pencil button to edit that product o
 
 ![Example Order with 2 Product Delivery Day Orders and a Donation](images/OrderEntryAllFull.png)
 
+_For the wreath fundraiser the neighborhood field would not be present and there would be additional fields for putting in city/state/zip_
+
 # Add Product Page
-This page is where you would add product specific entries for the order.  The contents of this page will change depending on the active fundraising type (Wreath/Mulch/Other)
+This page is where you would add or edit product specific entries for the order.  The contents of this page will change depending on the active fundraising type (Wreath/Mulch/Other)
 
 ![Mulch Product Order Entry](images/ProductPage.png)
 
-Even though the page contents depends on the active fundraising type, the delivery date pull down will be availble for any open delivery dates.  In other words for mulch if you have an order for 1 delivery day then you will only get the option for the remaining delivery day(s).  If this is the wreath fundraiser then there will only be one delivery date available.
+The delivery date pull down will allow you to select the delivery data for the fundraiser order.
+The rest of the options are going to be fundraiser specific.
+
+# Add Donation Page
+This page allows for donations to be added or edited. 
+
+![Add Donation Entry](images/DonationPage.png)
 
 
-
-
-
-**Bold** and _Italic_ and `Code` text
 
 
