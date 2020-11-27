@@ -1,11 +1,13 @@
 # User Manual for T27 Fundraising App V2.0
 
-Welcome to the V2 Fundraising Experience.
-Improvements
-- Usable on mobile devices
+This system is a ground up replacement of the previous system. Primary design goals are to be usable for all Troop 27 fundraising efforts and support mobile as well as desktop environments.
+
+Notable Enhancements:
+- Usable from mobile devices
 - Progressive Web App which means that it is able to be installed and launched like a regular app for both phone and dekstop
-- Initial releases targets latest Firefox/Chrome browsers.  (Internet Explorer and Safari Desktop are not yet supported)
+- Initial releases has been tested with latest Firefox/Chrome browsers.  MS Edge and Safari desktop browser support will be coming. (Internet Explorer will not be)
 - Support for more than just Mulch fundraising efforts
+- Enhanced control for switching between fundraiser activities.
 
 # How to get there
 _TBD: Add Link_
